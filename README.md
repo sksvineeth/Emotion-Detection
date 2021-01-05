@@ -3,7 +3,7 @@ Facial Emotion Recognition
 # Abstractive text summarizer
 - [ Abstract ](#Abstract )
 - [Methodology](#Architecture-overview)
-- [Results] (#Results)
+- [Results]
 - [References](#References)
 - [Future Scope](#Future-Scope)
 
