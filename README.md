@@ -20,7 +20,7 @@ analysis because of its optimumlocalization properties in spatial and frequency 
 
 ## Architecture overview ##
 ![architecture ](https://user-images.githubusercontent.com/18707601/103633042-2c3b7880-4f13-11eb-829b-57799db9310c.png)
-![Gabor Filtering](https://user-images.githubusercontent.com/18707601/103633042-2c3b7880-4f13-11eb-829b-57799db9310c.png)
+![Gabor Filtering]
 
  Model specifications :
 
