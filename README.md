@@ -1,6 +1,5 @@
 # Emotion-Detection
 Facial Emotion Recognition
-# Abstractive text summarizer
 - [ Abstract ](#Abstract )
 - [Methodology](#Architecture-overview)
 - [Results]
